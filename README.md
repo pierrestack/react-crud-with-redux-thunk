@@ -64,3 +64,7 @@ The API will be accessible at the following address: `http://localhost:5000/stud
 
 ## Authors
 **ANDRIANARIVO Pierre Emmanuel**
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request for any improvements or corrections.
