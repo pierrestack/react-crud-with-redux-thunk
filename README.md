@@ -17,7 +17,7 @@ The project is divided into two main folders:
 1. Clone the repository:
     ```bash
     git clone https://github.com/pierrestack/react-crud-with-redux-thunk.git
-    cd Crud-react-with-redux-thunk
+    cd react-crud-with-redux-thunk
 
     ```
 
